@@ -2,9 +2,10 @@
 ## Software Engineering Project
 This project was created for the course of Software Engineering (NTUA). We were asked to make a system for toll interoperability.
 
-Software Engineering Team  
-- Πηγαδάς Νικόλαος el18445
-- Αγγέλης Γιώργος  el18030
+Contributors:
+---
+[Giorgos Angelis]("https://github.com/ag-george")
+[Nicolas Pigadas]("https://github.com/NIcolasp14")
 
 
 ## Tech stack  
