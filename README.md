@@ -1,4 +1,4 @@
-# Toll Interoperability | Team TL21-91
+# Toll Interoperability, SoftEng Class, ECE NTUA 2022
 ## Software Engineering Project
 This project was created for the course of Software Engineering (NTUA). We were asked to make a system for toll interoperability.
 
